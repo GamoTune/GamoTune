@@ -2,14 +2,6 @@
 
 <h1 align="center">hello world 👋</h1>
 
-###
-
-<div align="center">
-  <img height="200" src="https://media.discordapp.net/attachments/508654630729809930/1177984009603661956/telecharge.gif?ex=65747e19&is=65620919&hm=3e88edf10a98d0cdba69febe504e727eae5b32546dfc90baad4e2340dc98acc7&="  />
-</div>
-
-###
-
 <div align="center">
   <a href="https://www.youtube.com/@team_chimu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=my%20team&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
