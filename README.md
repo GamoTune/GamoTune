@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h1 align="center">hello world 👋</h1>
 
 <div align="center">
