@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">I'm GamoTune from France<br><br>- 🔭 I’m working as student<br>- 🌱 I'm currently learning JS && Python<br>- ⚡ In my free time I WATCH YOUTUBE TO MUCH and I code personal project<br>- 📫 How to reach me: Twitter || Discord : gamotune<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: Rose are Red, Violet are Blue, Rob is working on 2.2 (OMG IT'S OUT</p>
+<p align="left">I'm GamoTune from France<br><br>- 🔭 I’m working as student<br>- 🌱 I'm currently learning JS && Python<br>- ⚡ In my free time I WATCH YOUTUBE TO MUCH and I code personal project<br>- 📫 How to reach me: Twitter || Discord : gamotune<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: Rose are Red, Violet are Blue, Rob is working on 2.2 (OMG IT'S OUT)</p>
 
 ###
 
