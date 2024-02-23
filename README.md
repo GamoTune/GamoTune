@@ -54,8 +54,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GamoTune&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
-  [![wakatime](https://wakatime.com/badge/user/018d7a54-93bf-4b10-9634-cf0a20c1b159.svg)](https://wakatime.com/@018d7a54-93bf-4b10-9634-cf0a20c1b159)
 </div>
 
 ###
