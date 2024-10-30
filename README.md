@@ -1,32 +1,12 @@
-<h1 align="center">hello world 👋</h1>
+<h1 align="left">🧑🏻‍💻Hello World, I'm GamoTune</h1>
 
 ###
 
-<div align="center">
-  <a href="https://www.youtube.com/@team_chimu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=My%20Team&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-  <a href="https://twitter.com/GamoTune_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.com/users/429319137710440449" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-</div>
+<h3 align="left">☂️About Me</h3>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GamoTune.GamoTune&"  />
-</div>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">- 🔭 I’m working as student<br>- 🌱 I'm currently learning JS && Python<br>- ⚡ In my free time I WATCH YOUTUBE TO MUCH and I code personal project<br>- 📫 How to reach me: Twitter || Discord : gamotune<br>- 😄 Pronouns: he/him<br>- ⚡ Fun fact: Rose are Red, Violet are Blue, Rob is working on 2.2 (OMG IT'S OUT)</p>
+<p align="left">- 🍎 I’m working as a student in IUT Informatique de Limoges<br>- ✏️ I'm currently learning JS & Python (and also font-end but I hate that)<br>- 📫 How to contact me: Email or  Discord<br>- 🗿 In my free time I WATCH TOO MUCH YOUTUBE and I code personal projects</p>
 
 ###
 
@@ -35,42 +15,58 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="40" alt="safari logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="55" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="55" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="55" alt="express logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="55" alt="discordjs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="55" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="55" alt="npm logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="55" alt="xcode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="55" alt="firefox logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="55" alt="safari logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="55" alt="filezilla logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" alt="github logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="55" alt="figma logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="55" alt="azure logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="55" alt="apple logo" />
 </div>
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🛰️ My socials links</h3>
+
+###
+
+<div align="left">
+  <a href="https://www.youtube.com/@gamotune" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=GamoTune&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="youtube logo" />
+  </a>
+  <a href="https://www.instagram.com/gamotune/profilecard/?igsh=MTAweGVjc2piOXR1NQ==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=Arthur%20%7C%7C%20Gamo&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="instagram logo" />
+  </a>
+  <a href="https://www.twitch.tv/gam0tune" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=GamoTune&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="twitch logo" />
+  </a>
+  <a href="http://discord.com/users/429319137710440449" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=GamoTune&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="discord logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/arthur-labregere-106266312/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=Arthur%20Labregere&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo" />
+  </a>
+</div>
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=GamoTune&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GamoTune&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<img align="right" height="150" src="https://media1.tenor.com/m/hZrhcdzuB5EAAAAC/moai.gif" />
+
+###
+
+<br clear="both">
+
+<p align="right">ok bye</p>
 
 ###
