@@ -61,7 +61,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media1.tenor.com/m/hZrhcdzuB5EAAAAC/moai.gif" />
+<img align="right" width="150" height="150" src="https://media1.tenor.com/m/hZrhcdzuB5EAAAAC/moai.gif" />
 
 ###
 
