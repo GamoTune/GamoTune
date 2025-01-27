@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 🍎 I’m working as a student in IUT Informatique de Limoges<br>- ✏️ I'm currently learning JS & Python (and also font-end but I hate that)<br>- 📫 How to contact me: Email or  Discord<br>- 🗿 In my free time I WATCH TOO MUCH YOUTUBE and I code personal projects</p>
+<p align="left">- 🍎 I’m working as a student in IUT Informatique de Limoges<br>- ✏️ I'm currently learning JS, Python, C & Java (and also font-end but I hate that)<br>- 📫 How to contact me: Email or  Discord<br>- 🗿 In my free time I WATCH TOO MUCH YOUTUBE and I code personal projects</p>
 
 ###
 
