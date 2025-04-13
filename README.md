@@ -60,15 +60,13 @@
 <br clear="both">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 765.3 kB Used in GitHub's Storage 
- > 
-> 🏆 71 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -121,17 +119,17 @@ Mac                      54 mins             ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               15 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
-Python                   9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+JavaScript               15 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
+Python                   8 repos             ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
 
 
- Last Updated on 12/04/2025 18:41:57 UTC
+ Last Updated on 13/04/2025 18:41:40 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
