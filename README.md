@@ -60,7 +60,7 @@
 <br clear="both">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-529%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-529%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.2%20million%20lines%20of%20code-blue)
 
@@ -68,13 +68,11 @@
 
 > 📦 798.6 kB Used in GitHub's Storage 
  > 
-> 🏆 116 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 11 Public Repositories 
+> 📜 12 Public Repositories 
  > 
-> 🔑 25 Private Repositories 
+> 🔑 24 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -103,17 +101,17 @@ Sunday                   99 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JSON                     3 mins              █████████████████████████   99.29 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+JavaScript               3 mins              █████████████░░░░░░░░░░░░   52.93 % 
+JSON                     3 mins              ████████████░░░░░░░░░░░░░   47.07 % 
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Ganager_V2               3 mins              █████████████████████████   100.00 % 
+Ganager_V2               6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 mins              █████████████████████████   100.00 % 
+Mac                      6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -129,7 +127,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2025 18:51:34 UTC
+ Last Updated on 25/07/2025 18:51:17 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
