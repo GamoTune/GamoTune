@@ -68,8 +68,6 @@
 
 > 📦 798.6 kB Used in GitHub's Storage 
  > 
-> 🏆 116 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -103,21 +101,16 @@ Sunday                   100 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      20 mins             ██████████░░░░░░░░░░░░░░░   39.92 % 
-Other                    17 mins             █████████░░░░░░░░░░░░░░░░   34.26 % 
-JavaScript               12 mins             ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  33 mins             ████████████████░░░░░░░░░   65.74 % 
-Termius                  17 mins             █████████░░░░░░░░░░░░░░░░   34.26 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-IUT-Room-viewer          30 mins             ███████████████░░░░░░░░░░   60.08 % 
-mon-portfolio            20 mins             ██████████░░░░░░░░░░░░░░░   39.92 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      50 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -133,7 +126,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2025 18:43:06 UTC
+ Last Updated on 01/09/2025 18:44:19 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
