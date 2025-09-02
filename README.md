@@ -101,16 +101,19 @@ Sunday                   100 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    17 mins             ███████████████████░░░░░░   77.97 % 
+JavaScript               4 mins              ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Termius                  17 mins             ███████████████████░░░░░░   77.97 % 
+VS Code                  4 mins              ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+mon-portfolio            17 mins             ███████████████████░░░░░░   77.97 % 
+IUT-Room-viewer          4 mins              ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -126,7 +129,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2025 18:44:19 UTC
+ Last Updated on 02/09/2025 18:44:39 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
