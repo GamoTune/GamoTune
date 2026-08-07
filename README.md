@@ -60,10 +60,6 @@
 <br clear="both">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-593%20hrs-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2049%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.19%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -78,51 +74,6 @@
  > 
 > 🔑 22 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1768 commits        ██████████░░░░░░░░░░░░░░░   41.63 % 
-🌆 Daytime                1858 commits        ███████████░░░░░░░░░░░░░░   43.75 % 
-🌃 Evening                539 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-🌙 Night                  82 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   985 commits         ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
-Tuesday                  1125 commits        ███████░░░░░░░░░░░░░░░░░░   26.49 % 
-Wednesday                844 commits         █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-Thursday                 629 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Friday                   349 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Saturday                 141 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-Sunday                   174 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -136,7 +87,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 20:02:59 UTC
+ Last Updated on 07/08/2026 00:22:20 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
