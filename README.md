@@ -105,22 +105,42 @@ Sunday                   174 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    4 mins              ████████████░░░░░░░░░░░░░   47.95 % 
+YAML                     3 mins              ██████████░░░░░░░░░░░░░░░   38.11 % 
+Markdown                 1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              4 mins              █████████████░░░░░░░░░░░░   50.55 % 
+VS Code                  4 mins              ████████████░░░░░░░░░░░░░   49.45 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+design_system            4 mins              █████████████░░░░░░░░░░░░   52.05 % 
+Unknown Project          4 mins              ████████████░░░░░░░░░░░░░   47.95 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      9 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 mins (52.05%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 976,984 Input Tokens, 11,074 Output Tokens
+
+💵 $6.55 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 4 AI Prompts
+
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 119 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -136,7 +156,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 20:19:29 UTC
+ Last Updated on 28/08/2026 02:16:11 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
