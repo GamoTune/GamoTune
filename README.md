@@ -105,17 +105,20 @@ Sunday                   174 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    4 mins              ████████████░░░░░░░░░░░░░   47.95 % 
-YAML                     3 mins              ██████████░░░░░░░░░░░░░░░   38.11 % 
-Markdown                 1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+Other                    4 mins              ████████████░░░░░░░░░░░░░   47.91 % 
+YAML                     3 mins              ██████████░░░░░░░░░░░░░░░   38.07 % 
+Markdown                 1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Vue                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Claude Code              4 mins              █████████████░░░░░░░░░░░░   50.55 % 
-VS Code                  4 mins              ████████████░░░░░░░░░░░░░   49.45 % 
+Claude Code              4 mins              █████████████░░░░░░░░░░░░   50.51 % 
+VS Code                  4 mins              ████████████░░░░░░░░░░░░░   49.49 % 
 
 🐱‍💻 Projects: 
-design_system            4 mins              █████████████░░░░░░░░░░░░   52.05 % 
-Unknown Project          4 mins              ████████████░░░░░░░░░░░░░   47.95 % 
+design_system            4 mins              █████████████░░░░░░░░░░░░   52.00 % 
+Unknown Project          4 mins              ████████████░░░░░░░░░░░░░   47.91 % 
+mon-projet               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
 Mac                      9 mins              █████████████████████████   100.00 % 
@@ -124,7 +127,7 @@ Mac                      9 mins              ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (52.05%)
+⏱ AI Coding Time: 4 mins (52.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
@@ -156,7 +159,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 21:03:26 UTC
+ Last Updated on 30/08/2026 21:19:14 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
