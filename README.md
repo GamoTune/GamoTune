@@ -105,45 +105,45 @@ Sunday                   174 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    4 mins              ████████████░░░░░░░░░░░░░   47.91 % 
-YAML                     3 mins              ██████████░░░░░░░░░░░░░░░   38.07 % 
-Markdown                 1 min               ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Vue                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Markdown                 1 hr 7 mins         ██████████████████████░░░   89.49 % 
+Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Vue                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Claude Code              4 mins              █████████████░░░░░░░░░░░░   50.51 % 
-VS Code                  4 mins              ████████████░░░░░░░░░░░░░   49.49 % 
+Claude Code              1 hr 10 mins        ███████████████████████░░   93.96 % 
+VS Code                  4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 
 🐱‍💻 Projects: 
-design_system            4 mins              █████████████░░░░░░░░░░░░   52.00 % 
-Unknown Project          4 mins              ████████████░░░░░░░░░░░░░   47.91 % 
-mon-projet               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+design_system            1 hr 10 mins        ████████████████████████░   94.14 % 
+Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+mon-projet               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.00 % 
+Mac                      1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (52.0%)
+⏱ AI Coding Time: 1 hr 10 mins (94.14%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 312 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 976,984 Input Tokens, 11,074 Output Tokens
+🔤 1,065,487 Input Tokens, 68,255 Output Tokens
 
-💵 $6.55 Estimated AI Cost This Week
+💵 $13.15 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 4 AI Prompts
+🧠 2 AI Sessions, 7 AI Prompts
 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     312 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 119 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 153 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -159,7 +159,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 22:59:17 UTC
+ Last Updated on 01/09/2026 21:12:23 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
