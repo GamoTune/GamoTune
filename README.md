@@ -60,9 +60,9 @@
 <br clear="both">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-594%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-597%20hrs%2022%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2055%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.19%20million%20lines%20of%20code-blue?style=flat)
 
@@ -105,45 +105,49 @@ Sunday                   184 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 2 hrs 6 mins        ███████████████████████░░   93.36 % 
-Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Markdown                 3 hrs 54 mins       ███████████████░░░░░░░░░░   61.59 % 
+Vue                      1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
+Prisma                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
-Claude Code              1 hr 56 mins        █████████████████████░░░░   85.71 % 
-VS Code                  19 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Claude Code              4 hrs 55 mins       ███████████████████░░░░░░   77.66 % 
+VS Code                  1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
 
 🐱‍💻 Projects: 
-SAE                      1 hr 20 mins        ███████████████░░░░░░░░░░   59.55 % 
-design_system            54 mins             ██████████░░░░░░░░░░░░░░░   40.44 % 
-mon-projet               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+design_system            2 hrs               ████████░░░░░░░░░░░░░░░░░   31.53 % 
+SAE                      1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+projet-wb                1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+Portfolio                1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+IUT-Room-viewer          25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
 
 💻 Operating System: 
-Mac                      2 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 59 mins (87.71%)
+⏱ AI Coding Time: 5 hrs 46 mins (91.16%)
 
-✍️ 296 lines written by AI, 4 lines written by hand (98.67% AI-written)
+✍️ 943 lines written by AI, 57 lines written by hand (94.3% AI-written)
 
-🔤 370,750 Input Tokens, 114,976 Output Tokens
+🔤 1,582,383 Input Tokens, 397,575 Output Tokens
 
-💵 $26.01 Estimated AI Cost This Week
+💵 $79.07 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 23 AI Prompts
+🧠 11 AI Sessions, 48 AI Prompts
 
-Opus                     318 lines           █████████████████████████   100.00 % 
+Opus                     804 lines           █████████████████████░░░░   83.06 % 
+Sonnet                   164 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.67% of written lines came from AI
-📚 Verbose Prompter — average 1,645 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.66% of changed lines were hand-edited
+🤖 AI-Driven — 94.3% of written lines came from AI
+📄 Detailed Prompter — average 876 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 20.77% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -159,7 +163,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 21:11:52 UTC
+ Last Updated on 04/09/2026 20:54:57 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
