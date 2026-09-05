@@ -60,9 +60,9 @@
 <br clear="both">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-597%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-602%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-20%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2037%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.19%20million%20lines%20of%20code-blue?style=flat)
 
@@ -105,49 +105,50 @@ Sunday                   184 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 3 hrs 54 mins       ███████████████░░░░░░░░░░   61.59 % 
-Vue                      1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
-Prisma                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+Markdown                 3 hrs 54 mins       ███████████░░░░░░░░░░░░░░   42.63 % 
+Vue                      2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+Rust                     1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Prisma                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 55 mins       ███████████████████░░░░░░   77.66 % 
-VS Code                  1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+Claude Code              6 hrs 14 mins       █████████████████░░░░░░░░   68.03 % 
+VS Code                  2 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   31.97 % 
 
 🐱‍💻 Projects: 
-design_system            2 hrs               ████████░░░░░░░░░░░░░░░░░   31.53 % 
-SAE                      1 hr 20 mins        █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-projet-wb                1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
-Portfolio                1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-IUT-Room-viewer          25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+design_system            2 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   31.13 % 
+SAE                      1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+projet-wb                1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Portfolio                1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+IUT-Room-viewer          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 
 💻 Operating System: 
-Mac                      6 hrs 20 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 46 mins (91.16%)
+⏱ AI Coding Time: 7 hrs 36 mins (83.11%)
 
-✍️ 943 lines written by AI, 57 lines written by hand (94.3% AI-written)
+✍️ 1,022 lines written by AI, 240 lines written by hand (80.98% AI-written)
 
-🔤 1,582,383 Input Tokens, 397,575 Output Tokens
+🔤 2,674,087 Input Tokens, 491,410 Output Tokens
 
-💵 $79.07 Estimated AI Cost This Week
+💵 $106.52 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 48 AI Prompts
+🧠 16 AI Sessions, 68 AI Prompts
 
-Opus                     804 lines           █████████████████████░░░░   83.06 % 
-Sonnet                   164 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Opus                     883 lines           █████████████████████░░░░   84.34 % 
+Sonnet                   164 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.3% of written lines came from AI
-📄 Detailed Prompter — average 876 characters per prompt
+🤖 AI-Driven — 80.98% of written lines came from AI
+📄 Detailed Prompter — average 1,083 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 20.77% of changed lines were hand-edited
+🚀 High AI Trust — 34.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -163,7 +164,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 20:54:57 UTC
+ Last Updated on 05/09/2026 20:33:06 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
