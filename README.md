@@ -62,7 +62,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-604%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-30%20hrs%2028%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.19%20million%20lines%20of%20code-blue?style=flat)
 
@@ -105,50 +105,50 @@ Sunday                   184 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 6 hrs 26 mins       ████████████░░░░░░░░░░░░░   48.91 % 
-Vue                      3 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-Rust                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-TypeScript               52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Other                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Markdown                 6 hrs 25 mins       ████████████░░░░░░░░░░░░░   47.49 % 
+Vue                      3 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
+Other                    1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Rust                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+Prisma                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 13 mins      ███████████████████░░░░░░   77.61 % 
-VS Code                  2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+Claude Code              9 hrs 45 mins       ██████████████████░░░░░░░   72.25 % 
+VS Code                  3 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   27.75 % 
 
 🐱‍💻 Projects: 
-design_system            5 hrs 52 mins       ███████████░░░░░░░░░░░░░░   44.55 % 
-IUT-Room-viewer          1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-SAE                      1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-projet-wb                1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Portfolio                1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+design_system            5 hrs 59 mins       ███████████░░░░░░░░░░░░░░   44.39 % 
+SAE                      1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+projet-wb                1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Portfolio                1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+IUT-Room-viewer          42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 💻 Operating System: 
-Mac                      13 hrs 10 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 37 mins (88.26%)
+⏱ AI Coding Time: 11 hrs 36 mins (85.91%)
 
-✍️ 1,746 lines written by AI, 240 lines written by hand (87.92% AI-written)
+✍️ 1,077 lines written by AI, 246 lines written by hand (81.41% AI-written)
 
-🔤 5,859,828 Input Tokens, 931,558 Output Tokens
+🔤 5,736,805 Input Tokens, 813,199 Output Tokens
 
-💵 $238.52 Estimated AI Cost This Week
+💵 $214.57 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 117 AI Prompts
+🧠 23 AI Sessions, 122 AI Prompts
 
-Opus                     1,648 lines         ███████████████████████░░   90.95 % 
-Sonnet                   164 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Opus                     951 lines           █████████████████████░░░░   85.29 % 
+Sonnet                   164 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.92% of written lines came from AI
-📄 Detailed Prompter — average 723 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 22.8% of changed lines were hand-edited
+🤖 AI-Driven — 81.41% of written lines came from AI
+📄 Detailed Prompter — average 912 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 32.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -164,7 +164,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2026 21:39:51 UTC
+ Last Updated on 08/09/2026 21:19:01 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
