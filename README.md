@@ -105,49 +105,49 @@ Sunday                   200 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    1 hr 26 mins        ███████░░░░░░░░░░░░░░░░░░   27.41 % 
-Rust                     1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
-Markdown                 1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-Vue                      32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-TypeScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Other                    5 hrs 16 mins       █████████████████░░░░░░░░   69.95 % 
+Markdown                 2 hrs               ███████░░░░░░░░░░░░░░░░░░   26.69 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Rust                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 46 mins       █████████████░░░░░░░░░░░░   53.03 % 
-Claude Code              2 hrs 27 mins       ████████████░░░░░░░░░░░░░   46.97 % 
+Claude Code              6 hrs 14 mins       █████████████████████░░░░   82.65 % 
+VS Code                  1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
 
 🐱‍💻 Projects: 
-design_system            1 hr 35 mins        ████████░░░░░░░░░░░░░░░░░   30.36 % 
-SAE                      48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-gamo.one                 30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-Unknown Project          23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-judgingmoose             20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+gamo.one                 3 hrs 50 mins       █████████████░░░░░░░░░░░░   50.90 % 
+IUT-Room-viewer          1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+design_system            1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+SAE                      48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Unknown Project          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
 
 💻 Operating System: 
-Mac                      5 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 31 mins (67.42%)
+⏱ AI Coding Time: 6 hrs 49 mins (90.47%)
 
-✍️ 79 lines written by AI, 206 lines written by hand (27.72% AI-written)
+✍️ 0 lines written by AI, 23 lines written by hand (0.0% AI-written)
 
-🔤 1,917,032 Input Tokens, 157,221 Output Tokens
+🔤 5,064,624 Input Tokens, 413,804 Output Tokens
 
-💵 $44.69 Estimated AI Cost This Week
+💵 $152.15 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 42 AI Prompts
+🧠 13 AI Sessions, 63 AI Prompts
 
-Opus                     182 lines           ████████████████░░░░░░░░░   65.47 % 
-Sonnet                   96 lines            █████████░░░░░░░░░░░░░░░░   34.53 % 
+Opus                     24 lines            █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 27.72% of written lines came from AI
-📄 Detailed Prompter — average 1,444 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 80.05% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 898 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 55.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -163,7 +163,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 21:08:06 UTC
+ Last Updated on 12/09/2026 20:44:46 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
