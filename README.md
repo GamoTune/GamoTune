@@ -64,13 +64,13 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2023%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.28%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.42%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 952.0 kB Used in GitHub's Storage 
+> 📦 952.1 kB Used in GitHub's Storage 
  > 
-> 🏆 207 Contributions in the Year 2026
+> 🏆 247 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -81,21 +81,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1795 commits        ██████████░░░░░░░░░░░░░░░   41.24 % 
-🌆 Daytime                1894 commits        ███████████░░░░░░░░░░░░░░   43.51 % 
-🌃 Evening                570 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-🌙 Night                  94 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+🌞 Morning                1836 commits        ██████████░░░░░░░░░░░░░░░   40.95 % 
+🌆 Daytime                1937 commits        ███████████░░░░░░░░░░░░░░   43.21 % 
+🌃 Evening                602 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+🌙 Night                  108 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1003 commits        ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
-Tuesday                  1145 commits        ███████░░░░░░░░░░░░░░░░░░   26.30 % 
-Wednesday                845 commits         █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-Thursday                 655 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-Friday                   361 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Saturday                 144 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-Sunday                   200 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Monday                   1030 commits        ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+Tuesday                  1164 commits        ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
+Wednesday                847 commits         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Thursday                 700 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+Friday                   380 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Saturday                 146 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Sunday                   216 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 ```
 
 
@@ -105,39 +105,39 @@ Sunday                   200 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    4 hrs 23 mins       ████████████████░░░░░░░░░   65.91 % 
-Markdown                 2 hrs               ████████░░░░░░░░░░░░░░░░░   30.27 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-Rust                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+Markdown                 2 hrs               ██████████████░░░░░░░░░░░   55.51 % 
+Other                    1 hr 21 mins        █████████░░░░░░░░░░░░░░░░   37.49 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Rust                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 20 mins       ████████████████████░░░░░   80.32 % 
-VS Code                  1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+Claude Code              2 hrs 19 mins       ████████████████░░░░░░░░░   63.92 % 
+VS Code                  1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   36.08 % 
 
 🐱‍💻 Projects: 
-gamo.one                 2 hrs 56 mins       ███████████░░░░░░░░░░░░░░   44.30 % 
-IUT-Room-viewer          1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-design_system            1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-SAE                      48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Unknown Project          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+design_system            1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   31.25 % 
+IUT-Room-viewer          1 hr 6 mins         ████████░░░░░░░░░░░░░░░░░   30.41 % 
+SAE                      48 mins             ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+Unknown Project          16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+gamo.one                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
 💻 Operating System: 
-Mac                      6 hrs 39 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 56 mins (89.19%)
+⏱ AI Coding Time: 2 hrs 54 mins (80.18%)
 
 ✍️ 0 lines written by AI, 23 lines written by hand (0.0% AI-written)
 
-🔤 4,574,016 Input Tokens, 331,865 Output Tokens
+🔤 2,632,933 Input Tokens, 192,446 Output Tokens
 
-💵 $124.03 Estimated AI Cost This Week
+💵 $59.13 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 53 AI Prompts
+🧠 9 AI Sessions, 28 AI Prompts
 
 Opus                     24 lines            █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -145,8 +145,8 @@ Github-Copilot           0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,002 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📄 Detailed Prompter — average 1,080 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 55.56% of changed lines were hand-edited
 ```
 
@@ -163,7 +163,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 21:00:25 UTC
+ Last Updated on 14/09/2026 21:57:54 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
