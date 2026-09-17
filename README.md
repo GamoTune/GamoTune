@@ -105,45 +105,22 @@ Sunday                   280 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Rust                     5 mins              ███████████████░░░░░░░░░░   59.04 % 
-Other                    3 mins              ██████████░░░░░░░░░░░░░░░   40.96 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   98.91 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-R5.04 - Qualité Algorithm3 mins              ██████████░░░░░░░░░░░░░░░   39.87 % 
-different                2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
-quickestimate            2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-cold                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-carrots                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 mins (77.54%)
-
-✍️ 0 lines written by AI, 17 lines written by hand (0.0% AI-written)
-
-🔤 89,546 Input Tokens, 1,954 Output Tokens
-
-💵 $19.55 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 2 AI Prompts
-
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 282 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -159,7 +136,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 21:30:57 UTC
+ Last Updated on 17/09/2026 21:34:48 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
