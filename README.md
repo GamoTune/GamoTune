@@ -60,9 +60,9 @@
 <br clear="both">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-606%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-609%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2023%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%2044%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-28.85%20million%20lines%20of%20code-blue?style=flat)
 
@@ -105,45 +105,45 @@ Sunday                   280 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               5 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   37.70 % 
-Markdown                 4 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   31.80 % 
-Vue                      2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Other                    1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+TypeScript               5 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   39.92 % 
+Markdown                 3 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+Vue                      2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Other                    1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 4 mins       █████████████████████████   100.00 % 
+Claude Code              13 hrs 14 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-design_system            4 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   30.07 % 
-lab-panel                3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-bingo                    2 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
-arthur                   1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-scratch-2026-09-15-67e7661 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+design_system            4 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   30.82 % 
+lab-panel                3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
+bingo                    2 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
+arthur                   1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+scratch-2026-09-15-67e76629 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 
 💻 Operating System: 
-Mac                      14 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      13 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 4 mins (100.0%)
+⏱ AI Coding Time: 13 hrs 14 mins (100.0%)
 
-✍️ 5,154 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,050 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 6,005,527 Input Tokens, 1,157,128 Output Tokens
+🔤 5,290,741 Input Tokens, 1,086,656 Output Tokens
 
-💵 $328.93 Estimated AI Cost This Week
+💵 $317.00 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 118 AI Prompts
+🧠 18 AI Sessions, 108 AI Prompts
 
-Opus                     5,282 lines         █████████████████████████   100.00 % 
+Opus                     5,178 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 687 characters per prompt
+📄 Detailed Prompter — average 548 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -161,7 +161,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 21:39:54 UTC
+ Last Updated on 24/09/2026 21:40:38 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
