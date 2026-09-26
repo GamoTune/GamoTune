@@ -60,9 +60,9 @@
 <br clear="both">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-609%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-612%20hrs%2056%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-37%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-40%20hrs%2044%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.31%20million%20lines%20of%20code-blue?style=flat)
 
@@ -105,46 +105,48 @@ Sunday                   344 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 3 hrs 23 mins       ███████████░░░░░░░░░░░░░░   43.11 % 
-Other                    1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-TypeScript               1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-Vue                      58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Markdown                 3 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   37.47 % 
+Other                    1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+TypeScript               1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+Vue                      59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+JavaScript               54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 51 mins       █████████████████████████   100.00 % 
+Claude Code              9 hrs 24 mins       █████████████████████████   99.09 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🐱‍💻 Projects: 
-bingo                    2 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   37.83 % 
-lab-panel                2 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   28.26 % 
-arthur                   1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-design_system            26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-R5-06                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+bingo                    2 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   31.35 % 
+lab-panel                2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
+IUT-Room-viewer          1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+arthur                   1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+design_system            31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 
 💻 Operating System: 
-Mac                      7 hrs 51 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 51 mins (100.0%)
+⏱ AI Coding Time: 9 hrs 29 mins (100.0%)
 
-✍️ 4,807 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,076 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,000,795 Input Tokens, 799,434 Output Tokens
+🔤 5,118,710 Input Tokens, 928,223 Output Tokens
 
-💵 $215.16 Estimated AI Cost This Week
+💵 $248.98 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 66 AI Prompts
+🧠 13 AI Sessions, 69 AI Prompts
 
-Opus                     4,935 lines         █████████████████████████   100.00 % 
+Opus                     5,077 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 512 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 478 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -161,7 +163,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026 21:44:39 UTC
+ Last Updated on 26/09/2026 21:22:21 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
