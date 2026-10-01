@@ -70,7 +70,7 @@
 
 > 📦 952.6 kB Used in GitHub's Storage 
  > 
-> 🏆 301 Contributions in the Year 2026
+> 🏆 302 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -81,8 +81,8 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2098 commits        ██████████░░░░░░░░░░░░░░░   38.74 % 
-🌆 Daytime                2263 commits        ██████████░░░░░░░░░░░░░░░   41.78 % 
+🌞 Morning                2098 commits        ██████████░░░░░░░░░░░░░░░   38.73 % 
+🌆 Daytime                2264 commits        ██████████░░░░░░░░░░░░░░░   41.79 % 
 🌃 Evening                806 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
 🌙 Night                  249 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 ```
@@ -92,7 +92,7 @@
 Monday                   1216 commits        ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
 Tuesday                  1354 commits        ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 Wednesday                872 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Thursday                 900 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Thursday                 901 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
 Friday                   568 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
 Saturday                 162 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 Sunday                   344 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
@@ -105,47 +105,47 @@ Sunday                   344 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 2 hrs 17 mins       ███████████░░░░░░░░░░░░░░   43.25 % 
-JavaScript               1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
-YAML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-TypeScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Other                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Markdown                 2 hrs 17 mins       ███████████░░░░░░░░░░░░░░   44.53 % 
+JavaScript               1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   24.47 % 
+YAML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+TypeScript               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 12 mins       █████████████████████████   98.37 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Claude Code              5 hrs 3 mins        █████████████████████████   98.32 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🐱‍💻 Projects: 
-IUT-Room-viewer          1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   34.95 % 
-pixel-info               58 mins             █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-TD01                     47 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-bingo                    38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-nosqltd                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+IUT-Room-viewer          1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   35.98 % 
+pixel-info               58 mins             █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+TD01                     47 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+bingo                    38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+nosqltd                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 
 💻 Operating System: 
-Mac                      5 hrs 18 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 18 mins (100.0%)
+⏱ AI Coding Time: 5 hrs 8 mins (100.0%)
 
-✍️ 1,866 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,854 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,254,611 Input Tokens, 805,159 Output Tokens
+🔤 3,151,931 Input Tokens, 791,059 Output Tokens
 
-💵 $69.66 Estimated AI Cost This Week
+💵 $68.88 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 51 AI Prompts
+🧠 8 AI Sessions, 42 AI Prompts
 
-Opus                     2,008 lines         █████████████████████████   99.06 % 
-Sonnet                   19 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Opus                     2,008 lines         █████████████████████████   99.65 % 
+Sonnet                   7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 651 characters per prompt
+📄 Detailed Prompter — average 714 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -163,7 +163,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 22:27:48 UTC
+ Last Updated on 01/10/2026 22:51:02 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
