@@ -105,47 +105,22 @@ Sunday                   344 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JavaScript               54 mins             ███████████░░░░░░░░░░░░░░   42.30 % 
-YAML                     28 mins             ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-Markdown                 23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Bash                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              2 hrs 3 mins        ████████████████████████░   95.98 % 
-VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-IUT-Room-viewer          1 hr 51 mins        ██████████████████████░░░   86.17 % 
-pixel-info               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-design_system            4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-quickestimate            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 9 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 9 mins (100.0%)
-
-✍️ 274 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 1,284,444 Input Tokens, 170,120 Output Tokens
-
-💵 $39.03 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 15 AI Prompts
-
-Opus                     274 lines           █████████████████████████   100.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 133 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -161,7 +136,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 22:25:50 UTC
+ Last Updated on 03/10/2026 21:33:22 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
