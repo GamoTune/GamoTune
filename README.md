@@ -70,7 +70,7 @@
 
 > 📦 952.6 kB Used in GitHub's Storage 
  > 
-> 🏆 308 Contributions in the Year 2026
+> 🏆 312 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -81,21 +81,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2105 commits        ██████████░░░░░░░░░░░░░░░   38.81 % 
-🌆 Daytime                2264 commits        ██████████░░░░░░░░░░░░░░░   41.74 % 
-🌃 Evening                806 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-🌙 Night                  249 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+🌞 Morning                2113 commits        ██████████░░░░░░░░░░░░░░░   38.83 % 
+🌆 Daytime                2270 commits        ██████████░░░░░░░░░░░░░░░   41.72 % 
+🌃 Evening                809 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+🌙 Night                  249 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1216 commits        ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-Tuesday                  1354 commits        ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
-Wednesday                879 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Thursday                 901 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Friday                   568 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Saturday                 162 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-Sunday                   344 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Monday                   1216 commits        ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+Tuesday                  1354 commits        ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+Wednesday                887 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Thursday                 910 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Friday                   568 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Saturday                 162 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Sunday                   344 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 ```
 
 
@@ -105,51 +105,51 @@ Sunday                   344 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    3 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   36.30 % 
-Markdown                 1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-JSON                     1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Swift                    1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Text                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+Other                    2 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   38.32 % 
+JSON                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+Swift                    1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Markdown                 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Text                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 26 mins       ██████████████████░░░░░░░   71.47 % 
-VS Code                  2 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   28.53 % 
+Claude Code              4 hrs 55 mins       ████████████████░░░░░░░░░   65.68 % 
+VS Code                  2 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   34.32 % 
 
 🐱‍💻 Projects: 
-SAE                      2 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
-scratch-2026-10-01-ec1af51 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-notch                    1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-design_system            1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-R5-06                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+SAE                      2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+scratch-2026-10-01-ec1af51 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+notch                    1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+R5-06                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Portfolio                27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
 
 💻 Operating System: 
-Mac                      9 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      7 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 26 mins (93.47%)
+⏱ AI Coding Time: 6 hrs 54 mins (92.14%)
 
-✍️ 1,146 lines written by AI, 3 lines written by hand (99.74% AI-written)
+✍️ 610 lines written by AI, 3 lines written by hand (99.51% AI-written)
 
-🔤 4,934,919 Input Tokens, 494,815 Output Tokens
+🔤 3,423,902 Input Tokens, 362,361 Output Tokens
 
-💵 $76.96 Estimated AI Cost This Week
+💵 $61.15 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 107 AI Prompts
+🧠 24 AI Sessions, 89 AI Prompts
 
-Opus                     848 lines           ██████████████████░░░░░░░   74.00 % 
-Sonnet                   271 lines           ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-Github-Copilot           27 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Opus                     583 lines           ████████████████████████░   95.57 % 
+Github-Copilot           27 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.74% of written lines came from AI
-📄 Detailed Prompter — average 524 characters per prompt
+🤖 AI-Driven — 99.51% of written lines came from AI
+📝 Concise Prompter — average 460 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.26% of changed lines were hand-edited
+🚀 High AI Trust — 0.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -165,7 +165,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 23:15:46 UTC
+ Last Updated on 08/10/2026 23:31:10 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
