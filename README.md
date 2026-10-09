@@ -70,7 +70,7 @@
 
 > 📦 952.6 kB Used in GitHub's Storage 
  > 
-> 🏆 312 Contributions in the Year 2026
+> 🏆 315 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -81,18 +81,18 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2113 commits        ██████████░░░░░░░░░░░░░░░   38.83 % 
-🌆 Daytime                2270 commits        ██████████░░░░░░░░░░░░░░░   41.72 % 
-🌃 Evening                809 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-🌙 Night                  249 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+🌞 Morning                2113 commits        ██████████░░░░░░░░░░░░░░░   38.82 % 
+🌆 Daytime                2270 commits        ██████████░░░░░░░░░░░░░░░   41.70 % 
+🌃 Evening                811 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+🌙 Night                  249 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1216 commits        ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
-Tuesday                  1354 commits        ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+Monday                   1216 commits        ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+Tuesday                  1354 commits        ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
 Wednesday                887 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Thursday                 910 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+Thursday                 912 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
 Friday                   568 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
 Saturday                 162 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 Sunday                   344 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
@@ -105,51 +105,51 @@ Sunday                   344 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    2 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   38.32 % 
-JSON                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Swift                    1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Markdown                 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Text                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Other                    1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   30.49 % 
+JSON                     1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+Swift                    1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
+Text                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+JavaScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 55 mins       ████████████████░░░░░░░░░   65.68 % 
-VS Code                  2 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   34.32 % 
+Claude Code              3 hrs 29 mins       ██████████████░░░░░░░░░░░   57.89 % 
+VS Code                  2 hrs 32 mins       ███████████░░░░░░░░░░░░░░   42.11 % 
 
 🐱‍💻 Projects: 
-SAE                      2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.54 % 
-scratch-2026-10-01-ec1af51 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-notch                    1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-R5-06                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Portfolio                27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+SAE                      2 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   34.04 % 
+scratch-2026-10-01-ec1af51 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+notch                    1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Portfolio                27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+design_system            27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
 
 💻 Operating System: 
-Mac                      7 hrs 30 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 54 mins (92.14%)
+⏱ AI Coding Time: 5 hrs 26 mins (90.22%)
 
-✍️ 610 lines written by AI, 3 lines written by hand (99.51% AI-written)
+✍️ 575 lines written by AI, 3 lines written by hand (99.48% AI-written)
 
-🔤 3,423,902 Input Tokens, 362,361 Output Tokens
+🔤 2,564,612 Input Tokens, 271,568 Output Tokens
 
-💵 $61.15 Estimated AI Cost This Week
+💵 $52.01 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 89 AI Prompts
+🧠 16 AI Sessions, 65 AI Prompts
 
-Opus                     583 lines           ████████████████████████░   95.57 % 
-Github-Copilot           27 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Opus                     548 lines           ████████████████████████░   95.30 % 
+Github-Copilot           27 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.51% of written lines came from AI
-📝 Concise Prompter — average 460 characters per prompt
+🤖 AI-Driven — 99.48% of written lines came from AI
+📄 Detailed Prompter — average 596 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.49% of changed lines were hand-edited
+🚀 High AI Trust — 0.52% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -165,7 +165,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 23:31:10 UTC
+ Last Updated on 09/10/2026 22:48:59 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
