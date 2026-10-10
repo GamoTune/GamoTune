@@ -105,51 +105,50 @@ Sunday                   344 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   30.49 % 
-JSON                     1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
-Swift                    1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Text                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-JavaScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+JSON                     1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   28.14 % 
+Other                    1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+Text                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+JavaScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+HTML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 29 mins       ██████████████░░░░░░░░░░░   57.89 % 
-VS Code                  2 hrs 32 mins       ███████████░░░░░░░░░░░░░░   42.11 % 
+VS Code                  2 hrs 31 mins       ███████████████░░░░░░░░░░   59.26 % 
+Claude Code              1 hr 44 mins        ██████████░░░░░░░░░░░░░░░   40.74 % 
 
 🐱‍💻 Projects: 
-SAE                      2 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   34.04 % 
-scratch-2026-10-01-ec1af51 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-notch                    1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Portfolio                27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-design_system            27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+SAE                      2 hrs 3 mins        ████████████░░░░░░░░░░░░░   48.20 % 
+Portfolio                27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+design_system            27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+scratch-2026-10-01-ec1af522 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+HomeLab                  21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
 
 💻 Operating System: 
-Mac                      6 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      4 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 26 mins (90.22%)
+⏱ AI Coding Time: 3 hrs 40 mins (86.16%)
 
-✍️ 575 lines written by AI, 3 lines written by hand (99.48% AI-written)
+✍️ 550 lines written by AI, 3 lines written by hand (99.46% AI-written)
 
-🔤 2,564,612 Input Tokens, 271,568 Output Tokens
+🔤 1,847,762 Input Tokens, 191,022 Output Tokens
 
-💵 $52.01 Estimated AI Cost This Week
+💵 $37.17 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 65 AI Prompts
+🧠 11 AI Sessions, 41 AI Prompts
 
-Opus                     548 lines           ████████████████████████░   95.30 % 
-Github-Copilot           27 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     523 lines           ████████████████████████░   95.09 % 
+Github-Copilot           27 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.48% of written lines came from AI
-📄 Detailed Prompter — average 596 characters per prompt
+🤖 AI-Driven — 99.46% of written lines came from AI
+📄 Detailed Prompter — average 904 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.52% of changed lines were hand-edited
+🚀 High AI Trust — 0.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -165,7 +164,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 22:48:59 UTC
+ Last Updated on 10/10/2026 21:56:04 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
