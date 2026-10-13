@@ -105,50 +105,49 @@ Sunday                   344 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-JSON                     1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   28.14 % 
-Other                    1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
-Text                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-JavaScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-HTML                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+JSON                     1 hr 11 mins        ████████████░░░░░░░░░░░░░   47.50 % 
+Text                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+JavaScript               25 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Other                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+INI                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 31 mins       ███████████████░░░░░░░░░░   59.26 % 
-Claude Code              1 hr 44 mins        ██████████░░░░░░░░░░░░░░░   40.74 % 
+VS Code                  2 hrs 30 mins       █████████████████████████   99.67 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🐱‍💻 Projects: 
-SAE                      2 hrs 3 mins        ████████████░░░░░░░░░░░░░   48.20 % 
-Portfolio                27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-design_system            27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-scratch-2026-10-01-ec1af522 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-HomeLab                  21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+SAE                      1 hr 57 mins        ███████████████████░░░░░░   77.33 % 
+toolu_01Bi8PrM9CkFRyC6DfD13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
+repo                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+toolu_01XQAgjC3Ni5e3Mgj1L7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 💻 Operating System: 
-Mac                      4 hrs 15 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 40 mins (86.16%)
+⏱ AI Coding Time: 1 hr 56 mins (76.64%)
 
-✍️ 550 lines written by AI, 3 lines written by hand (99.46% AI-written)
+✍️ 27 lines written by AI, 3 lines written by hand (90.0% AI-written)
 
-🔤 1,847,762 Input Tokens, 191,022 Output Tokens
+🔤 239,413 Input Tokens, 2,916 Output Tokens
 
-💵 $37.17 Estimated AI Cost This Week
+💵 $0.77 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 41 AI Prompts
+🧠 4 AI Sessions, 18 AI Prompts
 
-Opus                     523 lines           ████████████████████████░   95.09 % 
-Github-Copilot           27 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Github-Copilot           27 lines            █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.46% of written lines came from AI
-📄 Detailed Prompter — average 904 characters per prompt
+🤖 AI-Driven — 90.0% of written lines came from AI
+📝 Concise Prompter — average 99 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.54% of changed lines were hand-edited
+🚀 High AI Trust — 10.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -164,7 +163,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 00:55:06 UTC
+ Last Updated on 13/10/2026 23:00:15 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
