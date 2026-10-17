@@ -70,7 +70,7 @@
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 318 Contributions in the Year 2026
+> 🏆 341 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -81,21 +81,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2126 commits        ██████████░░░░░░░░░░░░░░░   38.85 % 
-🌆 Daytime                2278 commits        ██████████░░░░░░░░░░░░░░░   41.62 % 
-🌃 Evening                820 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-🌙 Night                  249 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+🌞 Morning                2127 commits        ██████████░░░░░░░░░░░░░░░   38.70 % 
+🌆 Daytime                2278 commits        ██████████░░░░░░░░░░░░░░░   41.45 % 
+🌃 Evening                836 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+🌙 Night                  255 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1217 commits        ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
-Tuesday                  1354 commits        ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-Wednesday                899 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Thursday                 927 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-Friday                   570 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-Saturday                 162 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Sunday                   344 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Monday                   1217 commits        ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+Tuesday                  1354 commits        ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
+Wednesday                899 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Thursday                 927 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Friday                   586 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Saturday                 169 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Sunday                   344 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 ```
 
 
@@ -105,46 +105,46 @@ Sunday                   344 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Vue                      2 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   36.85 % 
-Other                    2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.95 % 
-TypeScript               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-Markdown                 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Docker                   28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Vue                      2 hrs 15 mins       ███████████░░░░░░░░░░░░░░   42.58 % 
+Other                    1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   34.92 % 
+TypeScript               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Markdown                 34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 6 mins        █████████████████████████   99.85 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Claude Code              5 hrs 17 mins       █████████████████████████   99.83 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🐱‍💻 Projects: 
-design_system            2 hrs 15 mins       █████████░░░░░░░░░░░░░░░░   36.77 % 
-SAE                      1 hr 50 mins        ████████░░░░░░░░░░░░░░░░░   30.04 % 
-portfolio.gamo.one       43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-R5.09 - Virtu            38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-HomeLab                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+design_system            2 hrs 15 mins       ███████████░░░░░░░░░░░░░░   42.49 % 
+SAE                      1 hr 50 mins        █████████░░░░░░░░░░░░░░░░   34.64 % 
+portfolio.gamo.one       43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+HomeLab                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+scratch-2026-10-12-e88afa0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Mac                      6 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 7 mins (99.92%)
+⏱ AI Coding Time: 5 hrs 17 mins (99.91%)
 
-✍️ 852 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 120 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,137,929 Input Tokens, 655,500 Output Tokens
+🔤 4,975,964 Input Tokens, 587,575 Output Tokens
 
-💵 $92.97 Estimated AI Cost This Week
+💵 $87.71 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 68 AI Prompts
+🧠 12 AI Sessions, 56 AI Prompts
 
-Opus                     814 lines           ████████████████████████░   95.54 % 
-Sonnet                   38 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Opus                     120 lines           █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 899 characters per prompt
+📄 Detailed Prompter — average 1,056 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -162,7 +162,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 21:28:09 UTC
+ Last Updated on 17/10/2026 20:48:23 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
