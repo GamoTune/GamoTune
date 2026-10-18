@@ -105,46 +105,46 @@ Sunday                   344 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Vue                      2 hrs 15 mins       ███████████░░░░░░░░░░░░░░   42.58 % 
-Other                    1 hr 51 mins        █████████░░░░░░░░░░░░░░░░   34.92 % 
-TypeScript               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-Markdown                 34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Vue                      2 hrs 8 mins        ███████████░░░░░░░░░░░░░░   45.41 % 
+Other                    1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   39.14 % 
+TypeScript               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 17 mins       █████████████████████████   99.83 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Claude Code              4 hrs 43 mins       █████████████████████████   99.81 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-design_system            2 hrs 15 mins       ███████████░░░░░░░░░░░░░░   42.49 % 
-SAE                      1 hr 50 mins        █████████░░░░░░░░░░░░░░░░   34.64 % 
-portfolio.gamo.one       43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-HomeLab                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-scratch-2026-10-12-e88afa0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+design_system            2 hrs 8 mins        ███████████░░░░░░░░░░░░░░   45.31 % 
+SAE                      1 hr 50 mins        ██████████░░░░░░░░░░░░░░░   38.83 % 
+portfolio.gamo.one       43 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+scratch-2026-10-12-e88afa0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Portfolio                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Mac                      5 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 17 mins (99.91%)
+⏱ AI Coding Time: 4 hrs 43 mins (99.9%)
 
 ✍️ 120 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,975,964 Input Tokens, 587,575 Output Tokens
+🔤 3,805,734 Input Tokens, 533,297 Output Tokens
 
-💵 $87.71 Estimated AI Cost This Week
+💵 $76.41 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 56 AI Prompts
+🧠 10 AI Sessions, 52 AI Prompts
 
 Opus                     120 lines           █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,056 characters per prompt
+📄 Detailed Prompter — average 1,129 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -162,7 +162,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 20:48:23 UTC
+ Last Updated on 18/10/2026 20:57:56 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
