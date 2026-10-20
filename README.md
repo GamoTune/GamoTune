@@ -60,9 +60,9 @@
 <br clear="both">
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-618%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-618%20hrs%2027%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-46%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-47%20hrs%204%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29.37%20million%20lines%20of%20code-blue?style=flat)
 
@@ -70,7 +70,7 @@
 
 > 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 361 Contributions in the Year 2026
+> 🏆 362 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,48 +105,44 @@ Sunday                   355 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    1 hr 51 mins        ███████████████░░░░░░░░░░   58.65 % 
-TypeScript               36 mins             █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-Vue                      26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Other                    58 mins             ██████████████████████░░░   88.10 % 
+Markdown                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Vue                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 8 mins        █████████████████████████   99.71 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Claude Code              1 hr 5 mins         █████████████████████████   99.18 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 🐱‍💻 Projects: 
-SAE                      1 hr 50 mins        ███████████████░░░░░░░░░░   58.19 % 
-portfolio.gamo.one       43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-design_system            26 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-gde-base                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-scratch-2026-10-12-e88afa0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+SAE                      58 mins             ██████████████████████░░░   88.53 % 
+gde-base                 7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
 
 💻 Operating System: 
-Mac                      3 hrs 9 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 8 mins (99.85%)
+⏱ AI Coding Time: 1 hr 5 mins (99.57%)
 
-✍️ 35 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 3,002,950 Input Tokens, 318,273 Output Tokens
+🔤 1,305,230 Input Tokens, 112,772 Output Tokens
 
-💵 $56.12 Estimated AI Cost This Week
+💵 $16.33 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 39 AI Prompts
+🧠 4 AI Sessions, 14 AI Prompts
 
-Opus                     35 lines            █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,048 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 206 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -162,7 +158,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 22:33:23 UTC
+ Last Updated on 20/10/2026 21:48:20 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
