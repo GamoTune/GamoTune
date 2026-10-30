@@ -105,45 +105,44 @@ Sunday                   355 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Other                    51 mins             ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
-Markdown                 38 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-TypeScript               34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Vue                      25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Rust                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Cassandra CQL            18 mins             ████████░░░░░░░░░░░░░░░░░   32.89 % 
+TypeScript               16 mins             ███████░░░░░░░░░░░░░░░░░░   28.72 % 
+Markdown                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+YAML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Vue                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 37 mins       █████████████████████████   100.00 % 
+Claude Code              57 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SAE                      1 hr                ███████░░░░░░░░░░░░░░░░░░   27.94 % 
-gde-base                 50 mins             ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-R5.09 - Virtu            39 mins             █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-TD_Groupe                30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-TD04                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+TD_Groupe                30 mins             █████████████░░░░░░░░░░░░   52.09 % 
+TD04                     25 mins             ███████████░░░░░░░░░░░░░░   44.44 % 
+gde-base                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+gde                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 💻 Operating System: 
-Mac                      3 hrs 37 mins       █████████████████████████   100.00 % 
+Mac                      57 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 37 mins (100.0%)
+⏱ AI Coding Time: 57 mins (100.0%)
 
-✍️ 2,872 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,284 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,413,436 Input Tokens, 428,363 Output Tokens
+🔤 2,114,271 Input Tokens, 194,492 Output Tokens
 
-💵 $51.98 Estimated AI Cost This Week
+💵 $17.58 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 28 AI Prompts
+🧠 6 AI Sessions, 7 AI Prompts
 
-Opus                     2,943 lines         █████████████████████████   100.00 % 
+Opus                     1,284 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 548 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 1,706 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -160,7 +159,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 22:55:32 UTC
+ Last Updated on 30/10/2026 22:34:14 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:SHOW_PROJECTS-->
